@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671071568046",
+    "project_id": "roomateshopping-e6a9f",
+    "storage_bucket": "roomateshopping-e6a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671071568046:android:d382866de1b2d32e236d3f",
+        "android_client_info": {
+          "package_name": "com.example.roomateshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671071568046-d5g6cs4bi3363b26kqgenujcuo7sugal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBty7aL6Qhyoa2CofpvAJqwZTtcVnQwTkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671071568046-d5g6cs4bi3363b26kqgenujcuo7sugal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
